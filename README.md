@@ -1,3 +1,5 @@
+# Análise de Séries Temporais em Python
+
 ## Conclusão
 
 Neste projeto, realizamos uma análise de séries temporais para prever o total de vendas em janeiro de 2024, utilizando dados históricos de vendas de 2023. A abordagem adotada envolveu o seguinte:
