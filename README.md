@@ -8,7 +8,7 @@ Neste projeto, realizamos uma análise de séries temporais para prever o total 
 
 3. **Modelagem com Suavização Exponencial:** Aplicamos o modelo de Suavização Exponencial Simples para ajustar os dados e gerar previsões. Ajustamos o modelo com um nível de suavização e visualizamos os valores ajustados em comparação com os valores reais para avaliar a precisão do modelo.
 
-4. **Previsão:** Utilizando o modelo treinado, fizemos uma previsão para o total de vendas de janeiro de 2024. A previsão resultante foi de '[67.6499]', o que fornece uma estimativa valiosa para planejamento e tomada de decisão.
+4. **Previsão:** Utilizando o modelo treinado, fizemos uma previsão para o total de vendas de janeiro de 2024. A previsão resultante foi de [67.6499], o que fornece uma estimativa valiosa para planejamento e tomada de decisão.
 
 Em suma, o modelo de Suavização Exponencial Simples mostrou-se eficaz na previsão do total de vendas, fornecendo uma estimativa confiável para o próximo período. Recomenda-se monitorar e ajustar o modelo periodicamente com dados atualizados para manter a precisão das previsões.
 
