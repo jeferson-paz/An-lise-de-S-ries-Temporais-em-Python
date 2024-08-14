@@ -1,6 +1,6 @@
 ## Conclusão
 
-Neste projeto, realizamos uma análise de séries temporais para prever o total de vendas em janeiro de 2024, utilizando dados históricos de vendas de 2023. A abordagem adotada envolveu o seguinte:
+Neste projeto, realizei uma análise de séries temporais para prever o total de vendas em janeiro de 2024, utilizando dados históricos de vendas de 2023. A abordagem adotada envolveu o seguinte:
 
 1. **Pré-Processamento dos Dados:** Convertendo os dados em um formato apropriado para séries temporais, ajustando o índice para refletir a frequência diária e garantindo a integridade das datas.
 
