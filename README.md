@@ -12,9 +12,7 @@ Neste projeto, realizamos uma análise de séries temporais para prever o total 
 
 Em suma, o modelo de Suavização Exponencial Simples mostrou-se eficaz na previsão do total de vendas, fornecendo uma estimativa confiável para o próximo período. Recomenda-se monitorar e ajustar o modelo periodicamente com dados atualizados para manter a precisão das previsões.
 
-Esse layout segue uma estrutura clara e organizada, com seções bem definidas, facilitando a compreensão e a navegação pelo seu projeto. Certifique-se de substituir `[67.6499]` pelo valor real da previsão gerada pelo seu modelo.
-
----
+Esse layout segue uma estrutura clara e organizada, com seções bem definidas, facilitando a compreensão e a navegação pelo seu projeto.`[67.6499]`
 
 Feito por: **Jeferson Paz**
 
