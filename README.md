@@ -14,8 +14,9 @@ Em suma, o modelo de Suavização Exponencial Simples mostrou-se eficaz na previ
 
 ---
 
-Feito por: **Jeferson Paz**
+Feito por: **Jeferson Paz**  
+Cursos na Data Science Academy: Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)  
 
-[Cursos na Data Science Academy](https://www.datascienceacademy.com.br)
+Meu GitHub: [Seu GitHub](https://github.com/jeferson-paz)  
 
-[Meu GitHub](https://github.com/jeferson-paz)
+Projeto criado através do Curso gratuito na Data Science Academy: [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://www.datascienceacademy.com.br)
